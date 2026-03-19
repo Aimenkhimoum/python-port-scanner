@@ -59,7 +59,7 @@ except KeyboardInterrupt:
     print("\nArrêt du programme par l'utilisateur.")
     sys.exit()
 
-# on fait l'xportation des résultats
+# on fait l'exportation des résultats
 if args.output:
     try:
         with open(args.output, "w") as f:
