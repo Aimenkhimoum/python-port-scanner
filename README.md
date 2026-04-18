@@ -21,7 +21,7 @@ Clonez ce dépôt sur votre machine locale :
 ```bash
 git clone [https://github.com/Aimenkhimoum/python-port-scanner.git](https://github.com/Aimenkhimoum/python-port-scanner.git)
 cd python-port-scanner
-
+```
 ## Utilisation
 
 Le script s'exécute directement depuis votre terminal. 
